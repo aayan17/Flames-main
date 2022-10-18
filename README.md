@@ -1,6 +1,6 @@
 Flames is a python based GUI program to find out FLAMES.
 
-Screenshot (44)
+
 
 Flames is a game in which:
 
